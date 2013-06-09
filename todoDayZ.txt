@@ -5,4 +5,4 @@ Buildings - http://db.dayzwiki.com/buildings
 
 -Trowable cans
 -Cider and Vodka give Empty Wishkey Bottle when drunk
-
+-delete Vodka and that Cider which was Beer(I said that :D)
